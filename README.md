@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou PhD em Ciências</h1>
+<h1 align="center">Olá 👋, Eu sou analista de dados</h1>
 <h3 align="center">Sou apaixonada por ciência e análise de dados.</h3>
 
 - 🌱 Estou aprendendo **Python, Machine Learning e SQL**
